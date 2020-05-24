@@ -1,7 +1,7 @@
 ---
 name: Elizabeth Tran
 institution: Stanford University
-profile_pic: profile_pic.png # Name and extension of your profile picture(ex. mona.png)
-quote: tbd
+profile_pic: profile_pic.png 
+quote: No sooner said than done - so acts your man of worth. - Franz Kafka
 github_user: elizapandabella
 ---
